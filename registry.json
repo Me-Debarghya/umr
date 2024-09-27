@@ -1,6 +1,6 @@
 {
     "math": "the so populer math module",
-    "math.fr": "fraction strcuture like \frac{45}{46} in latex",
+    "math.fr": "fraction converter from any number",
     "math.frac": "math.fr",
     "math.func": "function structure",
     "frac": "fraction"
