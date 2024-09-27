@@ -3,5 +3,8 @@
     "math.fr": "fraction converter from any number",
     "math.frac": "math.fr",
     "math.func": "function structure",
-    "frac": "fraction"
+    "frac": "fraction or latex frac",
+
+    "latex": "the populer latex project for type setting markup language derived from tex",
+    "latex.frac": "latex \frac{}{}"
 }
